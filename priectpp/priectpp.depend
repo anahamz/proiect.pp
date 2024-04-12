@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712921204 source:c:\users\ana\desktop\priectpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
